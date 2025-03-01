@@ -1,3 +1,5 @@
 # Debugger-Squad
 ## INTRODUCTION
-This is a fully functional E-Commerce Website that allows users to browse, search, and purchase products online. The platform provides a seamless shopping experience with user authentication, product categorization, a shopping cart, and a secure checkout process.
+The [DemoBlaze]("https://www.demoblaze.com/index.html") website is an e-commerce platform where users can browse, search, and purchase electronic products, including phones, laptops, and monitors. The website provides essential features such as user registration, login, product selection, cart management, order placement, and payment processing. Additionally, it ensures a seamless shopping experience with functionalities like product details, user reviews, and customer support.
+
+This test plan outlines the manual testing strategy to validate that all core functionalities operate correctly, are user-friendly, and deliver optimal performance across different devices and browsers. The goal is to identify and address any usability, functionality, or performance issues to ensure users' smooth and reliable experience.
