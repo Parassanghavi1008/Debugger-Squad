@@ -5,11 +5,7 @@ is an e-commerce platform where users can browse, search, and purchase electroni
 
 This test plan outlines the manual testing strategy to validate that all core functionalities operate correctly, are user-friendly, and deliver optimal performance across different devices and browsers. The goal is to identify and address any usability, functionality, or performance issues to ensure users' smooth and reliable experience.
 
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=flat&logo=selenium&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge&logo=selenium)
 
 
 
