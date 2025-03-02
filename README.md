@@ -47,7 +47,7 @@ AUT URL: https://www.demoblaze.com/
 
 ## Video Presention Link
 
-[Video](https://drive.google.com/file/d/1bZ6hWeJNnl-0MlA3zOq8-CWZgX35asLF/view)
+[A video presentation of the project is available](https://drive.google.com/file/d/1bZ6hWeJNnl-0MlA3zOq8-CWZgX35asLF/view)
 
 
 
