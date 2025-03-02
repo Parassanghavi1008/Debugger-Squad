@@ -3,7 +3,8 @@
 The [DemoBlaze Website](https://www.demoblaze.com/index.html "Visit DemoBlaze")
 is an e-commerce platform where users can browse, search, and purchase electronic products, including phones, laptops, and monitors. The website provides essential features such as user registration, login, product selection, cart management, order placement, and payment processing. Additionally, it ensures a seamless shopping experience with functionalities like product details, user reviews, and customer support.
 
-This test plan outlines the manual testing strategy to validate that all core functionalities operate correctly, are user-friendly, and deliver optimal performance across different devices and browsers. The goal is to identify and address any usability, functionality, or performance issues to ensure users' smooth and reliable experience.
+## Objective
+This test plan outlines the manual and automation testing strategy to validate that all core functionalities operate correctly, are user-friendly, and deliver optimal performance across different devices and browsers. The goal is to identify and address usability, functionality, or performance issues to ensure users' smooth and reliable experience.
 
 ## Tech Stack used in this Project
 
@@ -24,9 +25,36 @@ This test plan outlines the manual testing strategy to validate that all core fu
 <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF9500?logo=firefox-browser&logoColor=white&style=flat" />
 <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
 
-**API Testinf Tool:**
+**API Testing Tool:**
 
 <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
+
+## Directory Structure of automation testing files
+src/main/java
+│   ├── pages/
+│   │   ├── BasePage.java
+│   │   ├── Cart.java
+│   │   ├── CheckOut.java
+│   │   ├── Login.java
+│   │   ├── SignUp.java
+├── test/java   
+│   ├── runner/
+│   │   ├── TestRunner.java
+│   ├── stepDefinitions/
+│   │   ├── CartSteps.java
+│   │   ├── CheckoutSteps.java
+│   │   ├── Invalid_SignupSteps.java
+│   │   ├── InvalidLoginSteps.java
+│   │   ├── LoginSteps.java
+│   │   ├── SignUpSteps.java
+│   ├──resources/features/
+│   ├── cart.feature
+│   ├── checkout.feature
+│   ├── invalidlogin.feature
+│   ├── invalidsignup.feature
+│   ├── loin.feature
+│   ├── signup.feature
+│── taeget/
 
 
 
