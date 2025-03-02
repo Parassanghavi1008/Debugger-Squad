@@ -6,7 +6,8 @@ is an e-commerce platform where users can browse, search, and purchase electroni
 This test plan outlines the manual testing strategy to validate that all core functionalities operate correctly, are user-friendly, and deliver optimal performance across different devices and browsers. The goal is to identify and address any usability, functionality, or performance issues to ensure users' smooth and reliable experience.
 
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11-orange?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 
 
