@@ -35,8 +35,13 @@ src/main/java
 ├── test/java   
 ├── runner/TestRunner.java
 ├── stepDefinitions/
-│   ├──resources/features/
+├──resources/features/
 │── taeget/
+
+## Application Under Test 
+
+AUT URL: https://www.demoblaze.com/
+
 
 
 
