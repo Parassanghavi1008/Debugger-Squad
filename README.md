@@ -8,5 +8,7 @@ This test plan outlines the manual testing strategy to validate that all core fu
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=flat&logo=selenium&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
+
 
 
