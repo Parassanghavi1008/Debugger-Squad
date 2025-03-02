@@ -26,6 +26,8 @@ This test plan outlines the manual and automation testing strategy to validate t
 **API Testing Tool:**
 
 <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
+<img src="https://img.shields.io/badge/Cucumber-Framework-white?logo=cucumber&logoColor=white&style=flat" alt="Cucumber Framework">
+
 
 ## Directory Structure of automation testing files
 src/main/java
