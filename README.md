@@ -9,6 +9,10 @@ This test plan outlines the manual testing strategy to validate that all core fu
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
+
+<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=flat" />
+
 
 
 
