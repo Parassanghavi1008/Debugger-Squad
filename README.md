@@ -21,8 +21,6 @@ This test plan outlines the manual and automation testing strategy to validate t
 **Operating System and browsers used:**
 
 <img alt="Windows" src="https://img.shields.io/badge/Windows-00ADEF?logo=windows&logoColor=white&style=flat" />
-<img alt="Edge" src="https://img.shields.io/badge/Edge-5C2D91?logo=microsoft-edge&logoColor=white&style=flat" />
-<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF9500?logo=firefox-browser&logoColor=white&style=flat" />
 <img alt="Chrome" src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat" />
 
 **API Testing Tool:**
