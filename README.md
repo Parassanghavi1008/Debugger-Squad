@@ -28,6 +28,7 @@ This test plan outlines the manual and automation testing strategy to validate t
 <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
 
 **FrameWork**
+
 <img src="https://img.shields.io/badge/Cucumber-green?logo=cucumber&logoColor=white&style=flat" alt="Cucumber Framework">
 <img src="https://img.shields.io/badge/POM%20Framework-White?style=flat&logo=java&logoColor=white" alt="POM Framework Badge">
 
