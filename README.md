@@ -30,30 +30,12 @@ This test plan outlines the manual and automation testing strategy to validate t
 <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
 
 ## Directory Structure of automation testing files
-**src/main/java**
-**│   ├── pages/**
-**│   │   ├── BasePage.java**
-  │   │   ├── Cart.java
-  │   │   ├── CheckOut.java
-  │   │   ├── Login.java
-  │   │   ├── SignUp.java
-  ├── test/java   
-│   ├── runner/
-│   │   ├── TestRunner.java
-│   ├── stepDefinitions/
-│   │   ├── CartSteps.java
-│   │   ├── CheckoutSteps.java
-│   │   ├── Invalid_SignupSteps.java
-│   │   ├── InvalidLoginSteps.java
-│   │   ├── LoginSteps.java
-│   │   ├── SignUpSteps.java
+src/main/java
+├── pages/
+├── test/java   
+├── runner/TestRunner.java
+├── stepDefinitions/
 │   ├──resources/features/
-│   ├── cart.feature
-│   ├── checkout.feature
-│   ├── invalidlogin.feature
-│   ├── invalidsignup.feature
-│   ├── loin.feature
-│   ├── signup.feature
 │── taeget/
 
 
