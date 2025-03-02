@@ -7,10 +7,8 @@ This test plan outlines the manual testing strategy to validate that all core fu
 
 <img src="https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white" alt="Selenium Badge">
 
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat&logo=intellijidea&logoColor=white)
 <img src="https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA Badge">
 
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white)
 <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman&logoColor=white" alt="Postman Badge">
 
 
