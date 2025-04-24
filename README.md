@@ -34,13 +34,30 @@ This test plan outlines the manual and automation testing strategy to validate t
 
 ## Directory Structure of automation testing files
 ```
-src/main/java
-├── pages/
-├── test/java   
-├── runner/TestRunner.java
-├── stepDefinitions/
-├──resources/features/
-│── taeget/
+Debugger-Squad/
+└── src/
+    └── test/
+        ├── java/
+        │   └── runner/
+        │       └── TestRunner.java
+        │
+        │   └── stepDefinitions/
+        │       ├── CartSteps.java
+        │       ├── CheckOutSteps.java
+        │       ├── InvalidLoginSteps.java
+        │       ├── Invalid_SignupSteps.java
+        │       ├── LoginSteps.java
+        │       └── SignUpSteps.java
+        │
+        └── resources/
+            └── features/
+                ├── cart.feature
+                ├── checkout.feature
+                ├── invalidlogin.feature
+                ├── invalidsignup.feature
+                ├── login.feature
+                └── signup.feature
+
 
 ```
 
