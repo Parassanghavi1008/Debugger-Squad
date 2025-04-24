@@ -33,6 +33,7 @@ This test plan outlines the manual and automation testing strategy to validate t
 <img src="https://img.shields.io/badge/POM%20Framework-White?style=flat&logo=java&logoColor=white" alt="POM Framework Badge">
 
 ## Directory Structure of automation testing files
+```
 src/main/java
 ├── pages/
 ├── test/java   
@@ -40,6 +41,8 @@ src/main/java
 ├── stepDefinitions/
 ├──resources/features/
 │── taeget/
+
+```
 
 ## Application Under Test 
 
